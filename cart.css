@@ -1,0 +1,19 @@
+.product-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+#cart-items th, #cart-items td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.add-to-cart {
+    margin-top: 10px;
+}
